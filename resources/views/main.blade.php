@@ -8,6 +8,6 @@
 </head>
 <body>
     <h1>Welcome View and Blade!</h1>
-    
+    <h3>The value is <?= $value; ?> </h3>
 </body>
-</html>
+</html>0
